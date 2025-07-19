@@ -1,10 +1,10 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Replace 'YOUR_API_KEY' with your actual Mailchimp API key
-    $apiKey = 'afb0cbea502f86a75f7daeede21bc3ab-us4';
+    $apiKey = 'ef81e6da6875ba97ab4b24e7a7261d88-us9';
 
     // Replace 'YOUR_AUDIENCE_ID' with your actual Mailchimp audience ID
-    $audienceId = '4dbe9a9245';
+    $audienceId = 'b7a29160b1';
 
     $email = $_POST['mc_email'];
 
