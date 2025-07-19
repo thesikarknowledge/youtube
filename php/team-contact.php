@@ -17,7 +17,7 @@
         }
 
         // Update this to your desired email address.
-        $recipient = "thesikarknowledge@gmail.com";
+        $recipient = "thesikarknowledge@240377634.mailchimpapp.com";
 		$subject = "Message from $name";
 
         // Email content.
